@@ -1,14 +1,13 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css'
 import Jumbotron from "./components/jumbotron";
-import Card from "./components/card";
-import Search from "./components/searchForm";
+import Table from "./components/dataTablePage";
 
 function App() {
   return (
     <div className="container">
       <Jumbotron />
-      <Search />
-      <Card />
+      <Table />
     </div>
   );
 }
