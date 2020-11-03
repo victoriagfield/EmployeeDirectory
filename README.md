@@ -27,9 +27,9 @@ https://victoriagfield.github.io/EmployeeDirectory/
    ## Installation: 
    The code for this application was written using resources on the internet and following along to class activities.<br>
   <b> Resources used include: </b><br>
-  • https://mdbootstrap.com/
-  • https://randomuser.me/
-  • https://reactjs.org/docs/getting-started.html  
+  • https://mdbootstrap.com/ <br>
+  • https://randomuser.me/ <br>
+  • https://reactjs.org/docs/getting-started.html  <br>
    <hr>
    
    ## Images:
