@@ -46,6 +46,7 @@ https://victoriagfield.github.io/EmployeeDirectory/
    <hr>
 
    ## Test: 
+![EmployDirect](https://user-images.githubusercontent.com/66035385/98266175-fd774500-1f57-11eb-8355-b937e2139325.gif)
 
 
 
