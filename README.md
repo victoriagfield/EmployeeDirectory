@@ -33,7 +33,7 @@ https://victoriagfield.github.io/EmployeeDirectory/
    <hr>
    
    ## Images:
-   ![ED1](https://user-images.githubusercontent.com/66035385/98034022-59b95800-1de4-11eb-8dad-6735df4964cc.jpg)<br>
+   ![ed2](https://user-images.githubusercontent.com/66035385/98265467-1f23fc80-1f57-11eb-9e0b-660af021020e.jpg)
   
 
 
